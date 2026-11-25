@@ -1,0 +1,11 @@
+.status-monitoring-page {
+  display: flex;
+  flex-direction: column;
+}
+
+.monitoring-filter-buttons {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  align-self: flex-end;
+}

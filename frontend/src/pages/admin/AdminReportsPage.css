@@ -1,0 +1,11 @@
+.admin-reports-page {
+  display: flex;
+  flex-direction: column;
+}
+
+.admin-report-filter-buttons {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  align-self: flex-end;
+}
